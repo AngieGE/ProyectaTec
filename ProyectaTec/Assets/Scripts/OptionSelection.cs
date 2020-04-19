@@ -36,4 +36,9 @@ public class OptionSelection : MonoBehaviour
         theParentCanvas.GetComponent<CanvasGroupSettings>().SetInteractable(false);
 
     }
+
+    public void SetCgOption(CanvasGroup cg)
+    {
+        cgOption = cg;
+    }
 }

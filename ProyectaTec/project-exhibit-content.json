@@ -1,12 +1,20 @@
-
 {
     "p1": {
+            "titulo": "Proyector con popo",
+            "modelo": "MMD4W Xantex",
+            "descripcion": "esta es la opcion uno esta super cool. Tiene pantalla es el mas viejito, se encuentra en varios salones del edificio norte.",
             "tutorial_Link": "VideoTutorials/ProyectorConPantalla"
     },
     "p2": {
+        "titulo": "Proyector sin pipi",
+        "modelo": "mic84pluseu",
+        "descripcion": "Esta es la segunda opcion es el modelo intermedio. Es moderno y ya no tiene pantalla",
         "tutorial_Link": "VideoTutorials/ProyectorSinPantalla"
     },
     "p3": {
+        "titulo": "Proyector doble con polillas",
+        "modelo": "mic100plus",
+        "descripcion": "Esta es la tercera y ultima opcion. Es la mas modernos, la botonera se conecta a dos proyectores por lo que puedes mostrar distinto contenido en cada uno. Adicionalmente te puedes conectar con WIFI descargando la app BALBLA en BLU BLU",
         "tutorial_Link": "VideoTutorials/ProyectorDobleSinPantalla"
     }
 }
